@@ -1,3 +1,7 @@
+/* This program provides functionality to enroll students in courses,
+assign grades to students, and calculate overall course grades for each student.
+*/
+
 import java.util.*;
 
 public class CourseManagement {
